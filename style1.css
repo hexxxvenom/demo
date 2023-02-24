@@ -1,0 +1,151 @@
+/*profile */
+.card1 
+{
+  box-shadow: 0 4px 10px 4px rgba(0, 0, 0, 0.9);
+  height: 550px;
+  width: 400px;
+  margin: auto;
+  text-align: center;
+  background-color: brown;
+  border-style: groove;
+  border-radius: 100px;
+}
+.card2 {
+  height: 200px;
+  width: 400px;
+}
+.card2 img{
+  border-radius: 100px;
+  height: 200px;
+  width: 150px;
+  padding-top: 20px;
+  padding-bottom: 25px;
+}
+.card3
+{
+  height: 60px;
+}
+.main1
+{
+	text-align: center;
+}
+/* display medical store*/
+.card11 {
+  padding-top: 50px;
+  padding-left: 60px;
+}
+.card4{
+  height: 330px;
+  width: 250px;
+  float: left;
+}
+.card5 {
+  box-shadow: 0 4px 10px 4px rgba(0, 0, 0, 0.1);
+  height: 320px;
+  width: 245px;
+  text-align: center;
+  background-color: black;
+  border-style: groove;
+  border-radius: 15px;
+}
+.card6 {
+  height: 180px;
+  width: 245px;
+}
+.card6 img {
+  height: 150px;
+  width: 205px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.card7 {
+    width: 243px;
+    height: 70px;
+}
+/*medical details*/
+.card8 {
+  box-shadow: 0 4px 10px 4px rgba(0, 0, 0, 0.9);
+  height: 700px;
+  width: 700px;
+  text-align: center;
+  background-color: black;
+  border-style: groove;
+  margin: auto 350px;
+  border-radius: 50px;
+}
+}
+.car9 {
+  height: 450px;
+  width: 650px;
+}
+.card9 img {
+  height: 400px;
+  width: 600px;
+  border: groove;
+}
+.card10 {
+  height: 70px;
+  width: 700px;
+}
+.card10 h4{
+  color: red;
+}
+/*code for product display*/
+.pro1 {
+  height: 165px;
+  width: 420px;
+  float: left;
+}
+.pro2 {
+  box-shadow: 0 4px 10px 4px rgba(0, 0, 0, 0.1);
+  height: 155px;
+  width: 410px;
+  background-color: lightgray;
+  border-style: groove;
+}
+.pro3 {
+  height: 165px;
+  width: 140px;
+  float: left;
+}
+.pro3 img {
+  height: 150px;
+  width: 130px;
+  padding: 10px;
+}
+.pro4 {
+    width: 260px;
+    height: 30px;
+}
+.pro5 {
+  height: 165px;
+  width: 260px;
+  float: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+/*add to cart page*/
+.cart1 {
+   margin: 50px auto 430px;
+}
+/*display order*/
+.order{
+  margin: auto;
+  box-shadow: 0 1px 3px 0px rgba(0, 0, 0, 1.2);
+  background:#fff;
+  width: 900px;
+
+}
+.orders{
+  padding: 20px;
+  margin: auto;
+  box-shadow: 0 1px 3px 0px rgba(0, 0, 0, 1.2);
+  background:#fff;
+  width: 700px;
+}
+/*select cart display*/
+.cartselect1 {
+  height: 500px;
+  margin-left: 200px;
+  width: 300px;
+}
